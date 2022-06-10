@@ -13,5 +13,5 @@ I'm a designer and web developer committed providing accessible STEM education t
 
 [![Twitter Badge](https://img.shields.io/badge/-@EthanCoon__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EthanCoon_)](https://twitter.com/EthanCoon_) 
 [![YouTube Badge](https://img.shields.io/badge/-InfiniCode-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgIgzEbEXVtu7RJ2UrQsOPA)
-[![Linkedin Badge](https://img.shields.io/badge/-Ethan_Coon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ethan_Coon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-coon-569357240/) 
 [![Mail Badge](https://img.shields.io/badge/-eethanccoon@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:eethanccoon@gmail.com)
