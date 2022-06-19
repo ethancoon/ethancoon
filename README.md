@@ -3,10 +3,10 @@
 I'm a designer and web developer committed providing accessible STEM education to students. I spend most of my time improving my programming skills and creating unique projects to solve problems in my community.
 
 ### Fun facts about me :bulb:
-- :closed_book: I love to read (currently reading The Precipice by Toby Ord)
-- :running: I like to exercise and go on runs
-- :video_game: I enjoy playing video games in my free time
-- :deciduous_tree: I like helping my community with service activities
+- :closed_book: I love to read books that help bring unique perspectives to the world (currently reading The Precipice by Toby Ord)
+- :running: I like to exercise and keep in shape
+- :video_game: I love playing strategy-oriented video games like Factorio and OpenTTD
+- :deciduous_tree: I enjoy giving back to my community through service activities
 
 
 :mailbox: Feel free to reach out to me at:
