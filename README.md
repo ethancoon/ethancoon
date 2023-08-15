@@ -1,6 +1,6 @@
 ## **Hi, I'm Ethan!** :wave: 
 
-I'm a designer and web developer committed providing accessible STEM education to students. I spend most of my time improving my programming skills and creating unique projects to solve problems in my community.
+I'm an aspiring Software Engineer committed to providing accessible STEM education to students. I spend most of my time improving my programming skills and creating unique projects to solve problems in my community.
 
 ### Fun facts about me :bulb:
 - :closed_book: I love to read books that help bring unique perspectives to the world (currently reading The Precipice by Toby Ord)
